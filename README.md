@@ -13,7 +13,7 @@ Over the years I had the chance to developed in
 
 My love now is for the modern JS stack, mainly frontend.
 
-Currently I'm learning [Vue.js].
+Currently I'm learning [Vue.js] and game development with [LÖVE].
 
 Here you'll find some stuff that I developed along the years. Feel to reach me out and ask anything.
 
@@ -27,3 +27,4 @@ Sometimes I post stuff on [dev.to].
 [Vue.js]: https://vuejs.org/
 [LinkedIn profile]: https://linkedin.com/in/mesaquen
 [dev.to]: https://dev.to/mesaquen
+[LÖVE]: https://love2d.org/
