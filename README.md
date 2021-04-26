@@ -3,7 +3,7 @@
 Hi, I'm Mesaque. I'm a software developer for quite a while now.  
 I'm a Linux user (professional usage and at home) and open source lover.
 
-Over the years I had the chance to developed in
+Over the years I had the chance to develop apps in
 - Java
 - PHP
 - HTML5 + Vanilla JS
