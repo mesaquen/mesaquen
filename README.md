@@ -4,6 +4,7 @@ Hi, I'm Mesaque. I'm a software developer for quite a while now.
 I'm a Linux user (professional usage and at home) and open source lover.
 
 Over the years I had the chance to develop apps in
+
 - Java
 - PHP
 - HTML5 + Vanilla JS
@@ -15,7 +16,7 @@ My love now is for the modern JS stack, mainly frontend.
 
 Currently I'm learning [Vue.js] and game development with [LÖVE].
 
-Here you'll find some stuff that I developed along the years. Feel to reach me out and ask anything.
+Here you'll find some stuff that I developed along the years. Feel free to reach me out and ask anything.
 
 
 ##  How to contact me?
