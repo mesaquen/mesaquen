@@ -5,24 +5,25 @@ I'm a Linux user (professional usage and at home) and open source lover.
 
 Over the years I had the chance to develop apps in
 
-- Java
-- PHP
-- HTML5 + Vanilla JS
+- Next.js
 - React
 - React Native
-- Ruby on Rails (while in college)
+- PHP
+- HTML5 + Vanilla JS
+- Java
 
-My love now is for the modern JS stack, mainly frontend.
-
+I love to develop things with modern JS stack, mainly frontend.\
 Currently I'm learning [Vue.js] and game development with [LÖVE].
 
-Here you'll find some stuff that I developed along the years. Feel free to reach me out and ask anything.
+Here you'll find some stuff that I developed along the years.\
+Feel free to reach me out and ask anything.
 
+## How to contact me?
 
-##  How to contact me?
 You can reach me out at my [LinkedIn profile].
 
 ## How to follow me?
+
 Sometimes I post stuff on [dev.to].
 
 [Vue.js]: https://vuejs.org/
