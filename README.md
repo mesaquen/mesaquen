@@ -14,7 +14,7 @@ Over the years I had the chance to develop apps in
 - Some Python and Bash scripts
 - Google App Script
 
-I love to develop things with modern JS stack, mainly front end.\
+I love to develop things with modern JS stack, mainly front end.
 
 Here you'll find some stuff that I developed along the years.\
 Feel free to reach me out and ask anything.
