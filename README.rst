@@ -1,4 +1,5 @@
-# Mesaque Francisco
+Mesaque Francisco
+#################
 
 Hi, I'm Mesaque. I'm a software developer for quite a while now.  
 I'm a Linux user (professional usage and at home) and open source lover.
@@ -19,13 +20,15 @@ I love to develop things with modern JS stack, mainly front end.
 Here you'll find some stuff that I developed along the years.\
 Feel free to reach me out and ask anything.
 
-## How to contact me?
+How to contact me?
+==================
 
-You can reach me out at my [LinkedIn profile].
+You can reach me out at my `LinkedIn profile`_.
 
-## How to follow me?
+How to follow me?
+=================
 
-Sometimes I post stuff on [dev.to].
+Sometimes I post stuff on `dev.to`_.
 
-[LinkedIn profile]: https://linkedin.com/in/mesaquen
-[dev.to]: https://dev.to/mesaquen
+.. _LinkedIn profile: https://linkedin.com/in/mesaquen
+.. _dev.to:  https://dev.to/mesaquen
